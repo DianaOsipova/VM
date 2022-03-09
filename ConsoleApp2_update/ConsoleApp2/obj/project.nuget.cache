@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEPsy0wPuCSo/sPn4nsPrbtptx2ajR3MOw6OiebTodLOHvac7/S6UWNfbR6CnXZDLkvvgwaTKSmRJ6+9kowrtg==",
+  "success": true,
+  "projectFilePath": "E:\\ConsoleApp2_update\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
